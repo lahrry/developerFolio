@@ -23,7 +23,7 @@ const greeting = {
   username: "Lahrry Jeong",
   title: "Hi all, I'm Lahrry Bella Jeong",
   subTitle: emoji(
-    "I'm a Software Engineer🚀 at Docenty AI, where I develop innovative chatbots. At UCSD, I'm deepening my expertise in Computer Science with a focus on Artificial Intelligence, including Machine Learning, Deep Learning, and Computer Vision. Passionate and self-motivated, I'm committed to pushing the boundaries of technology."
+    "I'm a Software Engineer🚀 at Docenty AI, where I develop innovative chatbots. At UCSD, I'm deepening my expertise in Computer Science with a focus on Artificial Intelligence, including Machine Learning, Deep Learning, and Computer Vision."
   ),
   resumeLink:
     "https://docs.google.com/document/d/1A_pm_KHDOEC2rWOF5ncTy4sx57aIyKMABMNZ45KRrj8/edit", // Set to empty to hide the button
